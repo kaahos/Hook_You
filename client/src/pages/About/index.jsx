@@ -10,7 +10,7 @@ function About() {
 				</div>
 				<div className={styles.right}>
 					<p className={styles.text}>
-					Hook You! is a software developped to analyze emails and spot those which are malicious.
+					Hook You! is a software developed to analyze emails and spot those which are malicious.
 						Hook You! is a scholar project realized by one student.
 					</p>
 				</div>
