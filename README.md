@@ -2,6 +2,11 @@
 
 To run Hook You!:
 
+## Requirements
+
+- a Linux/Unix OS
+- the packages Yara and npm installed on it.
+
 ## Server Side
 
 ```
